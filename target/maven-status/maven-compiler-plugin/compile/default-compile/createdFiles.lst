@@ -1,0 +1,5 @@
+com\lou\simhasher\KeywordExtractor.class
+com\lou\simhasher\seg\WordsSegment.class
+com\lou\simhasher\SimHasher.class
+com\lou\simhasher\util\FNVHash.class
+com\lou\simhasher\util\DicReader.class
